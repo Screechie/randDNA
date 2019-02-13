@@ -14,6 +14,9 @@ int main()
 
     cin>>seed>>bases>>n;//read the three inputs
 
-    cout <<"\n\nOutput:\n\t"<<randDNA(seed,bases,n)<<endl; //print output  
+    cout <<"\n\nOutput:\n\t"<<randDNA(seed,bases,n)<<endl; //print output
+    
+    return 0;
+    
 }
 
